@@ -1,13 +1,6 @@
 # coding=utf-8
 # !/usr/bin/python
 
-"""
-
-作者 精彩一瞬间 内容均从互联网收集而来 仅供交流学习使用 严禁用于商业用途 请于24小时内删除
-         ====================Diudiumiao====================
-
-"""
-
 from Crypto.Util.Padding import unpad
 from Crypto.Util.Padding import pad
 from urllib.parse import urlparse
