@@ -84,15 +84,15 @@ http://59.47.74.33:35455/douyu/9067836$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="经典小品" group-title="经典小品",经典小品
 http://epg.112114.xyz/douyu/9067836$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="东方卫视4K" group-title="4K频道",东方卫视4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$LR•IPV4•2『线路1』
+http://43.251.226.89:8080/play/926.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="东方卫视4K" group-title="4K频道",东方卫视4K
-http://43.251.226.89:8080/play/926.m3u8$LR•IPV4•2『线路2』
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
-http://8.138.7.223/tv/api.php?id=hnws4k$LR•IPV4•4『线路1』
+http://43.251.226.89:8080/play/920.m3u8$LR•IPV4•4『线路1』
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
-http://43.251.226.89:8080/play/920.m3u8$LR•IPV4•4『线路2』
+http://43.251.226.89:8080/play/921.m3u8$LR•IPV4•4『线路2』
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
-http://43.251.226.89:8080/play/921.m3u8$LR•IPV4•4『线路3』
+http://8.138.7.223/tv/api.php?id=hnws4k$LR•IPV4•4『线路3』
 #EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR•IPV4•4『线路4』
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K频道",浙江卫视4K
@@ -102,11 +102,11 @@ http://43.251.226.89:8080/play/923.m3u8$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K频道",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视4K
-http://8.138.7.223/tv/jsws4k.php$LR•IPV4•3『线路1』
+http://43.251.226.89:8080/play/924.m3u8$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视4K
-http://43.251.226.89:8080/play/924.m3u8$LR•IPV4•3『线路2』
+http://43.251.226.89:8080/play/925.m3u8$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视4K
-http://43.251.226.89:8080/play/925.m3u8$LR•IPV4•3『线路3』
+http://8.138.7.223/tv/jsws4k.php$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="4K频道",广东卫视4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="4K频道",广东卫视4K
@@ -308,9 +308,9 @@ http://live.nctv.top/DJlio/huya.php?id=21059598$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="武林外传" group-title="电视剧频道",武林外传
 https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?key=0baa5db205ac0d29618a2e8d7964b7e4e&dis_t=1752408084&uuid=6f1d53dc-6873a014-459&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="埋堆堆频道",楚汉骄雄
-https://live.ottiptv.cc/huya/29465854$LR•IPV4•2『线路1』
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="埋堆堆频道",楚汉骄雄
-http://tv.zimtv.cn/tv/player/api/huya.php?id=29465854$LR•IPV4•2『线路2』
+https://live.ottiptv.cc/huya/29465854$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="西游记2" group-title="埋堆堆频道",西游记2
 http://cdn.jdshipin.com:8880/huya.php?id=29465859$LR•IPV4
 #EXTINF:-1 tvg-name="活佛济公3" group-title="埋堆堆频道",活佛济公3
@@ -320,9 +320,9 @@ http://cdn.jdshipin.com:8880/huya.php?id=30080233$LR•IPV4
 #EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
 http://cdn.jdshipin.com:8880/huya.php?id=23863796$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
-https://live.ottiptv.cc/huya/23863796$LR•IPV4•3『线路2』
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23863796$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="野蛮亲家" group-title="埋堆堆频道",野蛮亲家
-http://tv.zimtv.cn/tv/player/api/huya.php?id=23863796$LR•IPV4•3『线路3』
+https://live.ottiptv.cc/huya/23863796$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="倩女幽魂人间道" group-title="点播电影",倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="倩女幽魂道道道" group-title="点播电影",倩女幽魂道道道
@@ -864,9 +864,11 @@ https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="Now华剧" group-title="🌊港·澳·台",Now华剧
 p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086$LR•IPV4
 #EXTINF:-1 tvg-name="体育赛事" group-title="🏀体育频道",体育赛事
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?$LR•IPV6•2『线路1』
+https://hlslive1-byte-w4.volcfcdn.com/live/hls_cdrm/enc1/av1/cctv5plus/1080p/index.m3u8$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="体育赛事" group-title="🏀体育频道",体育赛事
-http://101.6.130.52:1234/641886773$LR•IPV4•2『线路2』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?$LR•IPV6•3『线路2』
+#EXTINF:-1 tvg-name="体育赛事" group-title="🏀体育频道",体育赛事
+http://101.6.130.52:1234/641886773$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="天津体育" group-title="🏀体育频道",天津体育
 http://107.150.60.122/live/tjtv5.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="JJ斗地主" group-title="🏀体育频道",JJ斗地主
@@ -1156,11 +1158,11 @@ http://arcast.net:1935/mp/mp/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="Canal 4 Jujuy" group-title="•杂货",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="•杂货",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8$LR•IPV4•4『线路1』
+http://free.cnlive.club/channel/n38060fe0/index.m3u8?q=1752629214236$LR•IPV4•4『线路1』
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="•杂货",Cartoon Network
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls$LR•IPV4•4『线路2』
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8$LR•IPV4•4『线路2』
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="•杂货",Cartoon Network
-http://free.cnlive.club/channel/n38060fe0/index.m3u8?q=1752629214236$LR•IPV4•4『线路3』
+http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls$LR•IPV4•4『线路3』
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="•杂货",Cartoon Network
 http://108.181.20.255:27347/livehttpplay?channel_id=23045$LR•IPV4•4『线路4』
 #EXTINF:-1 tvg-name="Christian Youth Channel" group-title="•杂货",Christian Youth Channel
@@ -1536,9 +1538,9 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497n
 #EXTINF:-1 tvg-name="颜人中精选36首(1小时)" group-title="更新时间",颜人中精选36首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="颜人中精选36首(1小时)" group-title="更新时间",颜人中精选36首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时)$LR•IPV4•3『线路2』
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="颜人中精选36首(1小时)" group-title="更新时间",颜人中精选36首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0$LR•IPV4•3『线路3』
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时)$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="张惠妹精选10首(1小时)" group-title="更新时间",张惠妹精选10首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0$LR•IPV4
 #EXTINF:-1 tvg-name="刘若英精选50首(3小时)" group-title="更新时间",刘若英精选50首(3小时)
@@ -1668,19 +1670,19 @@ https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="钱塘江" group-title="💓专享源🅰️",钱塘江
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/qiantangjiang/2000/index.m3u8?msisdn=20250923080124d2a289d7e8424ddd9ea0d2d29a9e0744&mdspid=&spid=800033&netType=0&sid=5500613479&pid=2028597139&timestamp=20250923080124&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=647370520&ParentNodeID=-99&assertID=5500613479&client_ip=106.13.250.83&SecurityKey=20250923080124&promotionId=&mvid=5102115888&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a4be52553a643d1013946a49db1f0e09&ddCalcu=9a04eeb20e7f5012b5d5934aa664439d3110$LR•IPV4
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8$LR•IPV4•9『线路1』
+p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd$LR•IPV4•9『线路1』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd$LR•IPV4•9『线路2』
+p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da$LR•IPV4•9『线路2』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da$LR•IPV4•9『线路3』
+http://23.237.104.106:8080/USA_HBO/index.m3u8$LR•IPV4•9『线路3』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8$LR•IPV4•9『线路4』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-http://23.237.104.106:8080/USA_HBO2/index.m3u8$LR•IPV4•9『线路5』
+p3p://167.114.175.6:55331/65d07877000b028d4787830a723c4ce7$LR•IPV4•9『线路5』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-p3p://167.114.175.6:55331/65d07877000b028d4787830a723c4ce7$LR•IPV4•9『线路6』
+http://125.227.210.55:8153/VideoInput/play.ts$LR•IPV4•9『线路6』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
-http://125.227.210.55:8153/VideoInput/play.ts$LR•IPV4•9『线路7』
+http://23.237.104.106:8080/USA_HBO2/index.m3u8$LR•IPV4•9『线路7』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8$LR•IPV4•9『线路8』
 #EXTINF:-1 tvg-name="HBO" group-title="💓专享源🅰️",HBO
@@ -2006,21 +2008,21 @@ http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473
 #EXTINF:-1 tvg-name="生命电视" group-title="💓台湾台📶",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8$LR•IPV4•42『线路1』
+http://37.27.111.214:8080/live/27/hls.m3u8$LR•IPV4•42『线路1』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8$LR•IPV4•42『线路2』
+http://213.91.179.28:8000/play/a0c1$LR•IPV4•42『线路2』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://37.27.111.214:8080/live/27/hls.m3u8$LR•IPV4•42『线路3』
+http://88.212.15.19/live/test_history/playlist.m3u8$LR•IPV4•42『线路3』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://213.91.179.28:8000/play/a0c1$LR•IPV4•42『线路4』
+http://82.78.243.219:45739/play/a01f/index.m3u8$LR•IPV4•42『线路4』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://88.212.15.19/live/test_history/playlist.m3u8$LR•IPV4•42『线路5』
+http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls$LR•IPV4•42『线路5』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://82.78.243.219:45739/play/a01f/index.m3u8$LR•IPV4•42『线路6』
+http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236$LR•IPV4•42『线路6』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls$LR•IPV4•42『线路7』
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8$LR•IPV4•42『线路7』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
-http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236$LR•IPV4•42『线路8』
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8$LR•IPV4•42『线路8』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8$LR•IPV4•42『线路9』
 #EXTINF:-1 tvg-name="HISTORY" group-title="💓台湾台📶",HISTORY
@@ -3404,11 +3406,11 @@ p3p://167.114.175.6:55331/6146901b0006875bea841df772893d7b$LR•IPV4
 #EXTINF:-1 tvg-name="Star World" group-title="🍹定制P3P☕️",Star World
 p3p://167.114.175.6:55331/621dc4640002052a2743501031f65ed4$LR•IPV4
 #EXTINF:-1 tvg-name="HITS" group-title="🍹定制P3P☕️",HITS
-https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8$LR•IPV4•34『线路1』
+p3p://167.114.175.6:55331/6233e648000735057db6cf734adf440d$LR•IPV4•34『线路1』
 #EXTINF:-1 tvg-name="HITS" group-title="🍹定制P3P☕️",HITS
-https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8$LR•IPV4•34『线路2』
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8$LR•IPV4•34『线路2』
 #EXTINF:-1 tvg-name="HITS" group-title="🍹定制P3P☕️",HITS
-p3p://167.114.175.6:55331/6233e648000735057db6cf734adf440d$LR•IPV4•34『线路3』
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8$LR•IPV4•34『线路3』
 #EXTINF:-1 tvg-name="HITS" group-title="🍹定制P3P☕️",HITS
 https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8$LR•IPV4•34『线路4』
 #EXTINF:-1 tvg-name="HITS" group-title="🍹定制P3P☕️",HITS
@@ -3542,11 +3544,11 @@ p3p://167.114.175.6:55331/6561b7fc0008015996e9acc674481614$LR•IPV4
 #EXTINF:-1 tvg-name="历史2" group-title="🍹定制P3P☕️",历史2
 p3p://167.114.175.6:55331/6233e2240002d3af7da6a1bf693a1ed5$LR•IPV4
 #EXTINF:-1 tvg-name="Trace Sport" group-title="🍹定制P3P☕️",Trace Sport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8$LR•IPV4•3『线路1』
+p3p://167.114.175.6:55331/644faccf000c7b6368730354764b17ed$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="Trace Sport" group-title="🍹定制P3P☕️",Trace Sport
-http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8$LR•IPV4•3『线路2』
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-name="Trace Sport" group-title="🍹定制P3P☕️",Trace Sport
-p3p://167.114.175.6:55331/644faccf000c7b6368730354764b17ed$LR•IPV4•3『线路3』
+http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8$LR•IPV4•3『线路3』
 #EXTINF:-1 tvg-name="韩国娱乐" group-title="🍹定制P3P☕️",韩国娱乐
 p3p://167.114.175.6:55331/621e16b0000ec4772884cc295a1614a8$LR•IPV4
 #EXTINF:-1 tvg-name="爱尔达娱乐" group-title="🍹定制P3P☕️",爱尔达娱乐
@@ -3668,283 +3670,283 @@ http://101.43.145.141:12002/itv/3000000010000005180.m3u8?cdn=FifastbLive$LR•IP
 #EXTINF:-1 tvg-name="4K-2" group-title="💓4K(Auto)",4K-2
 http://101.43.145.141:12002/itv/3000000010000015686.m3u8?cdn=FifastbLive$LR•IPV4
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•209『线路1』
+https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8$LR•IPV4•209『线路1』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•209『线路2』
+http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•209『线路2』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8$LR•IPV4•209『线路3』
+http://183.196.25.171:808/hls/11/index.m3u8$LR•IPV4•209『线路3』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://183.196.25.171:808/hls/93/index.m3u8$LR•IPV4•209『线路4』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•209『线路5』
+http://fn.tmde.top:35455/nptv/cctv4k.m3u8$LR•IPV4•209『线路5』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv1.m3u8$LR•IPV4•209『线路6』
+http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8$LR•IPV4•209『线路6』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv1.m3u8$LR•IPV4•209『线路7』
+http://fn.tmde.top:35455/nptv/cctv8k.m3u8$LR•IPV4•209『线路7』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•209『线路8』
+http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8$LR•IPV4•209『线路8』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv1.m3u8$LR•IPV4•209『线路9』
+http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•209『线路9』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•209『线路10』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?$LR•IPV6•209『线路10』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路11』
+http://173.208.212.130:8181/720p/cctv1.m3u8$LR•IPV4•209『线路11』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv2.m3u8$LR•IPV4•209『线路12』
+http://207.56.13.146:81/cdnlive/cctv1.m3u8$LR•IPV4•209『线路12』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•209『线路13』
+http://173.208.212.130:8181/1080p/cctv1.m3u8$LR•IPV4•209『线路13』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•209『线路14』
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8$LR•IPV4•209『线路14』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv2.m3u8$LR•IPV4•209『线路15』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?$LR•IPV6•209『线路15』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•209『线路16』
+http://111.8.224.6:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路16』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路17』
+http://207.56.13.146:81/cdnlive/cctv2.m3u8$LR•IPV4•209『线路17』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv3.m3u8$LR•IPV4•209『线路18』
+http://173.208.212.130:8181/1080p/cctv2.m3u8$LR•IPV4•209『线路18』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•209『线路19』
+http://173.208.212.130:8181/720p/cctv2.m3u8$LR•IPV4•209『线路19』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•209『线路20』
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8$LR•IPV4•209『线路20』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv3.m3u8$LR•IPV4•209『线路21』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?$LR•IPV6•209『线路21』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•209『线路22』
+http://111.8.224.6:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路22』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路23』
+http://207.56.13.146:81/cdnlive/cctv3.m3u8$LR•IPV4•209『线路23』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv4.m3u8$LR•IPV4•209『线路24』
+http://173.208.212.130:8181/1080p/cctv3.m3u8$LR•IPV4•209『线路24』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•209『线路25』
+http://173.208.212.130:8181/720p/cctv3.m3u8$LR•IPV4•209『线路25』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•209『线路26』
+http://204.12.221.218:8181/3m1080p/cctv3.m3u8$LR•IPV4•209『线路26』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv4.m3u8$LR•IPV4•209『线路27』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•209『线路27』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•209『线路28』
+http://111.8.224.6:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路28』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv5.m3u8$LR•IPV4•209『线路29』
+http://207.56.13.146:81/cdnlive/cctv4.m3u8$LR•IPV4•209『线路29』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•209『线路30』
+http://173.208.212.130:8181/1080p/cctv4.m3u8$LR•IPV4•209『线路30』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•209『线路31』
+http://173.208.212.130:8181/720p/cctv4.m3u8$LR•IPV4•209『线路31』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv5.m3u8$LR•IPV4•209『线路32』
+http://204.12.221.218:8181/3m1080p/cctv4.m3u8$LR•IPV4•209『线路32』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•209『线路33』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?$LR•IPV6•209『线路33』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv6.m3u8$LR•IPV4•209『线路34』
+http://207.56.13.146:81/cdnlive/cctv5.m3u8$LR•IPV4•209『线路34』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•209『线路35』
+http://173.208.212.130:8181/1080p/cctv5.m3u8$LR•IPV4•209『线路35』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•209『线路36』
+http://173.208.212.130:8181/720p/cctv5.m3u8$LR•IPV4•209『线路36』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv6.m3u8$LR•IPV4•209『线路37』
+http://204.12.221.218:8181/3m1080p/cctv5.m3u8$LR•IPV4•209『线路37』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•209『线路38』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?$LR•IPV6•209『线路38』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv7.m3u8$LR•IPV4•209『线路39』
+http://207.56.13.146:81/cdnlive/cctv6.m3u8$LR•IPV4•209『线路39』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•209『线路40』
+http://173.208.212.130:8181/1080p/cctv6.m3u8$LR•IPV4•209『线路40』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•209『线路41』
+http://173.208.212.130:8181/720p/cctv6.m3u8$LR•IPV4•209『线路41』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv7.m3u8$LR•IPV4•209『线路42』
+http://204.12.221.218:8181/3m1080p/cctv6.m3u8$LR•IPV4•209『线路42』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•209『线路43』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?$LR•IPV6•209『线路43』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv8.m3u8$LR•IPV4•209『线路44』
+http://207.56.13.146:81/cdnlive/cctv7.m3u8$LR•IPV4•209『线路44』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•209『线路45』
+http://173.208.212.130:8181/1080p/cctv7.m3u8$LR•IPV4•209『线路45』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv8.m3u8$LR•IPV4•209『线路46』
+http://173.208.212.130:8181/720p/cctv7.m3u8$LR•IPV4•209『线路46』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv8.m3u8$LR•IPV4•209『线路47』
+http://204.12.221.218:8181/3m1080p/cctv7.m3u8$LR•IPV4•209『线路47』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•209『线路48』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?$LR•IPV6•209『线路48』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路49』
+http://207.56.13.146:81/cdnlive/cctv8.m3u8$LR•IPV4•209『线路49』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv9.m3u8$LR•IPV4•209『线路50』
+http://173.208.212.130:8181/1080p/cctv8.m3u8$LR•IPV4•209『线路50』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•209『线路51』
+http://173.208.212.130:8181/720p/cctv8.m3u8$LR•IPV4•209『线路51』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•209『线路52』
+http://204.12.221.218:8181/3m1080p/cctv8.m3u8$LR•IPV4•209『线路52』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv9.m3u8$LR•IPV4•209『线路53』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?$LR•IPV6•209『线路53』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•209『线路54』
+http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路54』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路55』
+http://207.56.13.146:81/cdnlive/cctv9.m3u8$LR•IPV4•209『线路55』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•209『线路56』
+http://173.208.212.130:8181/1080p/cctv9.m3u8$LR•IPV4•209『线路56』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv10.m3u8$LR•IPV4•209『线路57』
+http://173.208.212.130:8181/720p/cctv9.m3u8$LR•IPV4•209『线路57』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•209『线路58』
+http://204.12.221.218:8181/3m1080p/cctv9.m3u8$LR•IPV4•209『线路58』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv10.m3u8$LR•IPV4•209『线路59』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?$LR•IPV6•209『线路59』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•209『线路60』
+http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路60』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路61』
+http://173.208.212.130:8181/1080p/cctv10.m3u8$LR•IPV4•209『线路61』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv11.m3u8$LR•IPV4•209『线路62』
+http://207.56.13.146:81/cdnlive/cctv10.m3u8$LR•IPV4•209『线路62』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•209『线路63』
+http://173.208.212.130:8181/720p/cctv10.m3u8$LR•IPV4•209『线路63』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv11.m3u8$LR•IPV4•209『线路64』
+http://204.12.221.218:8181/3m1080p/cctv10.m3u8$LR•IPV4•209『线路64』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv11.m3u8$LR•IPV4•209『线路65』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?$LR•IPV6•209『线路65』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•209『线路66』
+http://111.8.224.6:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路66』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv12.m3u8$LR•IPV4•209『线路67』
+http://207.56.13.146:81/cdnlive/cctv11.m3u8$LR•IPV4•209『线路67』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv12.m3u8$LR•IPV4•209『线路68』
+http://173.208.212.130:8181/1080p/cctv11.m3u8$LR•IPV4•209『线路68』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv12.m3u8$LR•IPV4•209『线路69』
+http://173.208.212.130:8181/720p/cctv11.m3u8$LR•IPV4•209『线路69』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv12.m3u8$LR•IPV4•209『线路70』
+http://204.12.221.218:8181/3m1080p/cctv11.m3u8$LR•IPV4•209『线路70』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•209『线路71』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?$LR•IPV6•209『线路71』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv13.m3u8$LR•IPV4•209『线路72』
+http://207.56.13.146:81/cdnlive/cctv12.m3u8$LR•IPV4•209『线路72』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•209『线路73』
+http://173.208.212.130:8181/1080p/cctv12.m3u8$LR•IPV4•209『线路73』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•209『线路74』
+http://173.208.212.130:8181/720p/cctv12.m3u8$LR•IPV4•209『线路74』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv13.m3u8$LR•IPV4•209『线路75』
+http://204.12.221.218:8181/3m1080p/cctv12.m3u8$LR•IPV4•209『线路75』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•209『线路76』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?$LR•IPV6•209『线路76』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://111.8.224.6:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路77』
+http://207.56.13.146:81/cdnlive/cctv13.m3u8$LR•IPV4•209『线路77』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv14.m3u8$LR•IPV4•209『线路78』
+http://173.208.212.130:8181/1080p/cctv13.m3u8$LR•IPV4•209『线路78』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv14.m3u8$LR•IPV4•209『线路79』
+http://173.208.212.130:8181/720p/cctv13.m3u8$LR•IPV4•209『线路79』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv14.m3u8$LR•IPV4•209『线路80』
+http://204.12.221.218:8181/3m1080p/cctv13.m3u8$LR•IPV4•209『线路80』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv14.m3u8$LR•IPV4•209『线路81』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?$LR•IPV6•209『线路81』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•209『线路82』
+http://111.8.224.6:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•209『线路82』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv15.m3u8$LR•IPV4•209『线路83』
+http://207.56.13.146:81/cdnlive/cctv14.m3u8$LR•IPV4•209『线路83』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•209『线路84』
+http://173.208.212.130:8181/1080p/cctv14.m3u8$LR•IPV4•209『线路84』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•209『线路85』
+http://173.208.212.130:8181/720p/cctv14.m3u8$LR•IPV4•209『线路85』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv15.m3u8$LR•IPV4•209『线路86』
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8$LR•IPV4•209『线路86』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•209『线路87』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?$LR•IPV6•209『线路87』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv16.m3u8$LR•IPV4•209『线路88』
+http://207.56.13.146:81/cdnlive/cctv15.m3u8$LR•IPV4•209『线路88』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv16.m3u8$LR•IPV4•209『线路89』
+http://173.208.212.130:8181/1080p/cctv15.m3u8$LR•IPV4•209『线路89』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv16.m3u8$LR•IPV4•209『线路90』
+http://173.208.212.130:8181/720p/cctv15.m3u8$LR•IPV4•209『线路90』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv16.m3u8$LR•IPV4•209『线路91』
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8$LR•IPV4•209『线路91』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•209『线路92』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$LR•IPV6•209『线路92』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://207.56.13.146:81/cdnlive/cctv17.m3u8$LR•IPV4•209『线路93』
+http://207.56.13.146:81/cdnlive/cctv16.m3u8$LR•IPV4•209『线路93』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•209『线路94』
+http://173.208.212.130:8181/1080p/cctv16.m3u8$LR•IPV4•209『线路94』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•209『线路95』
+http://173.208.212.130:8181/720p/cctv16.m3u8$LR•IPV4•209『线路95』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://204.12.221.218:8181/3m1080p/cctv17.m3u8$LR•IPV4•209『线路96』
+http://204.12.221.218:8181/3m1080p/cctv16.m3u8$LR•IPV4•209『线路96』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/2/index.m3u8$LR•IPV4•209『线路97』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?$LR•IPV6•209『线路97』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv2hd.m3u8$LR•IPV4•209『线路98』
+http://207.56.13.146:81/cdnlive/cctv17.m3u8$LR•IPV4•209『线路98』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv3hd.m3u8$LR•IPV4•209『线路99』
+http://173.208.212.130:8181/1080p/cctv17.m3u8$LR•IPV4•209『线路99』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/4/index.m3u8$LR•IPV4•209『线路100』
+http://173.208.212.130:8181/720p/cctv17.m3u8$LR•IPV4•209『线路100』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv4hd.m3u8$LR•IPV4•209『线路101』
+http://204.12.221.218:8181/3m1080p/cctv17.m3u8$LR•IPV4•209『线路101』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/5/index.m3u8$LR•IPV4•209『线路102』
+http://222.223.41.27:8888/hls/2/index.m3u8$LR•IPV4•209『线路102』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv5hd.m3u8$LR•IPV4•209『线路103』
+http://192.151.150.154/live/cctv2hd.m3u8$LR•IPV4•209『线路103』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://120.211.62.180:8000/hls/18/index.m3u8$LR•IPV4•209『线路104』
+http://74.91.26.218:82/live/cctv3hd.m3u8$LR•IPV4•209『线路104』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv5p.m3u8$LR•IPV4•209『线路105』
+http://222.223.41.27:8888/hls/4/index.m3u8$LR•IPV4•209『线路105』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv6hd.m3u8$LR•IPV4•209『线路106』
+http://192.151.150.154/live/cctv4hd.m3u8$LR•IPV4•209『线路106』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•209『线路107』
+http://222.223.41.27:8888/hls/5/index.m3u8$LR•IPV4•209『线路107』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv7hd.m3u8$LR•IPV4•209『线路108』
+http://192.151.150.154/live/cctv5hd.m3u8$LR•IPV4•209『线路108』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•209『线路109』
+http://120.211.62.180:8000/hls/18/index.m3u8$LR•IPV4•209『线路109』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv8hd.m3u8$LR•IPV4•209『线路110』
+http://192.151.150.154/live/cctv5p.m3u8$LR•IPV4•209『线路110』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/9/index.m3u8$LR•IPV4•209『线路111』
+http://192.151.150.154/live/cctv6hd.m3u8$LR•IPV4•209『线路111』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://198.204.228.26/live/cctv9hd.m3u8$LR•IPV4•209『线路112』
+http://74.91.26.218:82/live/cctv7hd.m3u8$LR•IPV4•209『线路112』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv9hd.m3u8$LR•IPV4•209『线路113』
+http://192.151.150.154/live/cctv7hd.m3u8$LR•IPV4•209『线路113』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$LR•IPV4•209『线路114』
+http://74.91.26.218:82/live/cctv8hd.m3u8$LR•IPV4•209『线路114』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv10hd.m3u8$LR•IPV4•209『线路115』
+http://192.151.150.154/live/cctv8hd.m3u8$LR•IPV4•209『线路115』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv10hd.m3u8$LR•IPV4•209『线路116』
+http://222.223.41.27:8888/hls/9/index.m3u8$LR•IPV4•209『线路116』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://222.223.41.27:8888/hls/11/index.m3u8$LR•IPV4•209『线路117』
+http://198.204.228.26/live/cctv9hd.m3u8$LR•IPV4•209『线路117』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv11hd.m3u8$LR•IPV4•209『线路118』
+http://192.151.150.154/live/cctv9hd.m3u8$LR•IPV4•209『线路118』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv12hd.m3u8$LR•IPV4•209『线路119』
+https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$LR•IPV4•209『线路119』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•209『线路120』
+http://192.151.150.154/live/cctv10hd.m3u8$LR•IPV4•209『线路120』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•209『线路121』
+http://74.91.26.218:82/live/cctv10hd.m3u8$LR•IPV4•209『线路121』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv12hd.m3u8$LR•IPV4•209『线路122』
+http://222.223.41.27:8888/hls/11/index.m3u8$LR•IPV4•209『线路122』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•209『线路123』
+http://192.151.150.154/live/cctv11hd.m3u8$LR•IPV4•209『线路123』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv13hd.m3u8$LR•IPV4•209『线路124』
+http://74.91.26.218:82/live/cctv12hd.m3u8$LR•IPV4•209『线路124』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•209『线路125』
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$LR•IPV4•209『线路125』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•209『线路126』
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$LR•IPV4•209『线路126』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv14hd.m3u8$LR•IPV4•209『线路127』
+http://192.151.150.154/live/cctv12hd.m3u8$LR•IPV4•209『线路127』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•209『线路128』
+https://event.pull.hebtv.com/jishi/cp1.m3u8$LR•IPV4•209『线路128』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•209『线路129』
+http://192.151.150.154/live/cctv13hd.m3u8$LR•IPV4•209『线路129』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•209『线路130』
+https://event.pull.hebtv.com/jishi/cp2.m3u8$LR•IPV4•209『线路130』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv15hd.m3u8$LR•IPV4•209『线路131』
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$LR•IPV4•209『线路131』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•209『线路132』
+http://192.151.150.154/live/cctv14hd.m3u8$LR•IPV4•209『线路132』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://192.151.150.154/live/cctv16hd.m3u8$LR•IPV4•209『线路133』
+http://74.91.26.218:82/live/cctv14hd.m3u8$LR•IPV4•209『线路133』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•209『线路134』
+https://xykt-fix.github.io/play/a02e/index.m3u8$LR•IPV4•209『线路134』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://fn.tmde.top:35455/nptv/cctv4k.m3u8$LR•IPV4•209『线路135』
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$LR•IPV4•209『线路135』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8$LR•IPV4•209『线路136』
+http://192.151.150.154/live/cctv15hd.m3u8$LR•IPV4•209『线路136』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://fn.tmde.top:35455/nptv/cctv8k.m3u8$LR•IPV4•209『线路137』
+http://74.91.26.218:82/live/cctv16hd.m3u8$LR•IPV4•209『线路137』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8$LR•IPV4•209『线路138』
+http://192.151.150.154/live/cctv16hd.m3u8$LR•IPV4•209『线路138』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
-http://69.30.245.50/live/cctv6.m3u8$LR•IPV4•209『线路139』
+http://74.91.26.218:82/live/cctv17hd.m3u8$LR•IPV4•209『线路139』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$LR•IPV4•209『线路140』
 #EXTINF:-1 tvg-name="CCTV" group-title="🌐央视频道",CCTV
