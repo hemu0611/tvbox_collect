@@ -66,15 +66,15 @@
        },
 		{
 			"key": "fY",
-			"name": "🐬枫叶影院(关梯子使用)",
+			"name": "🐬枫叶影院.py(关梯子使用)",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
 		},
 		{
-			"key": "JP",
-			"name": "🐬金牌APP.py",
+			"key": "ww",
+			"name": "🐬哇哇APP.py(关梯)",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/金牌APP.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哇哇APP.py"
 		},
 		{
 			"key": "rb",
@@ -83,10 +83,22 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/热播APP.py"
 		},
 		{
+			"key": "JP",
+			"name": "🐬金牌APP.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/金牌APP.py"
+		},
+		{
 			"key": "GZ",
 			"name": "🐬瓜子APP.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
+		},
+		{
+			"key": "QU",
+			"name": "🐬奇优影院.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
 		},
 		{
 			"key": "UVOD",

@@ -54,6 +54,12 @@
       "ext": "http://43.248.117.123:4680"
        },
 		{
+			"key": "ww",
+			"name": "🐬哇哇APP.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哇哇APP.py"
+		},
+		{
 			"key": "rb",
 			"name": "🐬热播APP.py[追剧]",
 			"type": 3,
@@ -70,6 +76,12 @@
 			"name": "🐬瓜子APP.py[追剧]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
+		},
+		{
+			"key": "QU",
+			"name": "🐬奇优影院.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
 		},
 		{
 			"key": "UVOD",

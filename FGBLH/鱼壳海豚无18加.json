@@ -95,6 +95,19 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/聚合直播.py"
 		},
 		{
+           "key": "ppx",
+           "name": "🐬皮皮虾.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
+           "ext": "http://43.248.117.123:4680"
+       },
+		{
+			"key": "ww",
+			"name": "🐬哇哇APP.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哇哇APP.py"
+		},
+		{
 			"key": "rb",
 			"name": "🐬热播APP.py",
 			"type": 3,
@@ -111,6 +124,12 @@
 			"name": "🐬瓜子APP.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
+		},
+		{
+			"key": "QU",
+			"name": "🐬奇优影院.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
 		},
 		{
 			"key": "UVOD",
