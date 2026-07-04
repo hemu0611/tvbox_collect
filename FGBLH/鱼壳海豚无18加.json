@@ -24,7 +24,7 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
-         {"key":"YK",
+         {"key":"YKvm",
         "name":"🐬优酷视频 海豚影视交流群 TG：@hshsjk9",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
@@ -78,7 +78,7 @@
 		},
 		{
 			"key": "sm",
-			"name": "🐬熊猫直播",
+			"name": "🐬韩国熊猫直播.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
@@ -103,7 +103,7 @@
        },
 		{
 			"key": "ww",
-			"name": "🐬哇哇APP.py(关梯)[追剧]",
+			"name": "🐬哇哇APP.py(关梯)",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哇哇APP.py"
 		},
@@ -142,6 +142,12 @@
           "name": "🐬麻花影视.py",
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
+        },
+		{
+          "key": "XH",
+          "name": "🐬星河影视.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星河影视.py"
         },
 		{
 			"key": "guanfeng",

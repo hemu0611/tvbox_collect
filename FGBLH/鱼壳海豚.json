@@ -24,7 +24,7 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
         },
-         {"key":"YK",
+         {"key":"YKvm",
         "name":"🐬优酷视频 海豚影视交流群 TG：@hshsjk9[追剧]",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
@@ -144,6 +144,12 @@
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
         },
 		{
+          "key": "XH",
+          "name": "🐬星河影视.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星河影视.py"
+        },
+		{
 			"key": "guanfeng",
 			"name": "🐬观风影视.py(关梯)[追剧]",
 			"type": 3,
@@ -203,6 +209,12 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/采集聚合.py"
 		},
+		{
+           "key": "xyzkk",
+           "name": "🐬小鸭子看看.py 有🔞[追剧]",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/小鸭子看看.py"
+        },
          {
 			"key": "fY",
 			"name": "🐬枫叶影院.py(关梯)[追剧]",

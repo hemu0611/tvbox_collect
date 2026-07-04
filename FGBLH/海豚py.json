@@ -72,6 +72,12 @@
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
         },
 		{
+          "key": "XH",
+          "name": "🐬星河影视.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星河影视.py"
+        },
+		{
 			"key": "guanfeng",
 			"name": "🐬观风影视.py(关梯)",
 			"type": 3,
@@ -124,6 +130,12 @@
            "name": "🐬七味.py(关梯)",
            "type": 3,
            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/七味.py"
+        },
+		{
+           "key": "xyzkk",
+           "name": "🐬小鸭子看看.py 有🔞",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/小鸭子看看.py"
         },
 		{
 			"key": "kf",
