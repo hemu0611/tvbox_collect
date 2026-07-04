@@ -30,6 +30,12 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
         },
+		{
+          "key": "YK",
+          "name": "🐬优酷视频.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优酷视频.py"
+        },
         {"key":"TX",
         "name":"🐬腾讯视频[追剧]",
         "type":3,
@@ -112,6 +118,12 @@
 			"name": "🐬瓜子APP.py[追剧]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
+		},
+		{
+			"key": "UVOD",
+			"name": "🐬优视频.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优视频.py"
 		},
 		{
           "key": "MH",
@@ -663,6 +675,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/黑料不打烊.py"
 		},
 		{
+			"key": "xj",
+			"name": "🐬香蕉视频.py(关梯)｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/香蕉视频.py"
+		},
+		{
 			"key": "dj",
 			"name": "🐬妲己高清视频.py(关梯)｜🔞[成人]",
 			"type": 3,
@@ -703,6 +721,12 @@
 			"name": "🐬Xvideos.py｜🔞[成人]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Xvideos.py"
+		},
+		{
+			"key": "Pornhub",
+			"name": "🐬Pornhub.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Pornhub.py"
 		},
 		{
 			"key": "fullhd",
