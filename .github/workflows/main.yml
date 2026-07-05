@@ -61,6 +61,9 @@ jobs:
             [bd]="https://github.com/xiaohaozifeifeifei/bd.git" 
             [catvod]="https://github.com/Darklessing/catvod.git" 
             [jaychouqq]="https://github.com/wliqi495-create/jaychouqq.git" 
+             [tbapi2]="https://github.com/ls125781003/tbapi2.git" 
+              [tbapi1]="https://github.com/ls125781003/tbapi1.git" 
+            
 
           ) 
  
