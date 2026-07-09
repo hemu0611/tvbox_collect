@@ -849,13 +849,16 @@ def process_iptv_task(template_file, tv_urls, output_m3u, output_txt, report_fil
     """
     处理单个IPTV任务的封装函数
     增强: 新增 all_channels 参数支持"预抓取复用"，避免多任务重复请求同一批源；
-          新增 extra_m3u/extra_txt，可为该任务额外产出"模板外可自动归类"的补充列表。
+          新增 extra_m3u/extra_txt，可为该任务额外产出"模板外可自动归类"的补充列表；
+          新增返回值 (matched, unmatched_tmpl, unmatched_src)，供调用方在任务间
+          传递"未匹配"数据(例如把任务1的未匹配频道追加进任务2的模板)。
+          解析失败(模板不存在)时返回 (None, None, None)，调用方需做空值判断。
     """
     logger.info(f"=== 开始处理任务: {template_file} ===")
     
     template = parse_template(template_file)
     if not template:
-        return
+        return None, None, None
 
     # 增强: 若未传入预抓取数据，则自行抓取(保持向后兼容)
     if all_channels is None:
@@ -877,6 +880,62 @@ def process_iptv_task(template_file, tv_urls, output_m3u, output_txt, report_fil
         remove_unmatched_from_template(template_file, unmatched_tmpl)
     
     logger.info(f"=== 任务完成: {template_file} ===\n")
+    return matched, unmatched_tmpl, unmatched_src
+
+def append_unmatched_to_template(unmatched_template, target_template_file):
+    """
+    新增功能: 把"任务1未匹配到的模板频道"追加进另一个模板文件(如 iptv_test.txt)，
+    以便后续任务继续尝试匹配 / 持续观察这些频道后续是否恢复可用。
+
+    设计要点:
+    - 幂等: 已存在于目标模板对应分类下的频道不会被重复追加，可放心多次运行脚本
+    - 目标文件不存在时自动创建
+    - 追加时保留原始频道名写法(含 "变体1|变体2" 语法)，不做任何改写，
+      确保后续 match_channels 的匹配行为与来源模板完全一致
+    - 复用 parse_template "同一分类可重复出现、不清空之前频道" 的既有特性，
+      直接在文件末尾新增一段 "分类,#genre#" 块，无需就地插入编辑
+
+    返回本次实际追加的频道数量(0 表示无需追加)。
+    """
+    total_lost = sum(len(v) for v in (unmatched_template or {}).values())
+    if total_lost == 0:
+        logger.info(f"任务未匹配数为 0，无需追加到 {target_template_file}")
+        return 0
+
+    # 读取目标模板中已有的频道，避免重复追加(幂等)
+    existing = parse_template(target_template_file) or OrderedDict()
+    existing_sets = {cat: set(names) for cat, names in existing.items()}
+
+    append_lines = []
+    appended_count = 0
+    for cat, names in unmatched_template.items():
+        # 去重且保持原始出现顺序
+        unique_names = list(OrderedDict.fromkeys(names))
+        new_names = [n for n in unique_names if n not in existing_sets.get(cat, set())]
+        if not new_names:
+            continue
+        append_lines.append(f"{cat},#genre#")
+        append_lines.extend(f"{n}," for n in new_names)
+        appended_count += len(new_names)
+
+    if not appended_count:
+        logger.info(f"未匹配频道均已存在于 {target_template_file}，无需重复追加")
+        return 0
+
+    try:
+        ensure_dir(target_template_file)
+        file_has_content = os.path.exists(target_template_file) and os.path.getsize(target_template_file) > 0
+        with open(target_template_file, "a", encoding="utf-8") as f:
+            if file_has_content:
+                f.write("\n")
+            f.write(f"# 以下 {appended_count} 个频道为其他任务未匹配到的频道，"
+                    f"自动追加于 {datetime.now()}\n")
+            f.write("\n".join(append_lines) + "\n")
+        logger.info(f"已将 {appended_count} 个未匹配频道追加进 {target_template_file}")
+        return appended_count
+    except Exception as e:
+        logger.error(f"追加未匹配频道到 {target_template_file} 失败: {e}")
+        return 0
 
 if __name__ == "__main__":
     # === 配置区 ===
@@ -897,7 +956,7 @@ if __name__ == "__main__":
     ALL_CHANNELS = fetch_all_channels(TV_URLS) if TV_URLS else OrderedDict()
 
     # === 任务1: 主列表 ===
-    process_iptv_task(
+    _matched1, unmatched_tmpl1, _unmatched_src1 = process_iptv_task(
         template_file="py/config/iptv.txt",
         tv_urls=TV_URLS,
         output_m3u="lib/iptv.m3u",
@@ -906,12 +965,16 @@ if __name__ == "__main__":
         auto_clean=False,
         all_channels=ALL_CHANNELS,
         # 新增: 模板外可自动归类的补充列表
-        extra_m3u="lib/iptv_ext.m3u" if ENABLE_AUTOGROUP_EXTRA else None,
-        extra_txt="lib/iptv_ext.txt" if ENABLE_AUTOGROUP_EXTRA else None,
+        extra_m3u="lib/iptv_extra.m3u" if ENABLE_AUTOGROUP_EXTRA else None,
+        extra_txt="lib/iptv_extra.txt" if ENABLE_AUTOGROUP_EXTRA else None,
     )
 
-    # === 任务2: 测试列表 (如果配置文件存在) ===
+    # === 新增: 把任务1未匹配到的频道追加进测试列表模板，再执行任务2 ===
     TEST_TEMPLATE_FILE = "py/config/iptv_test.txt"
+    if unmatched_tmpl1:
+        append_unmatched_to_template(unmatched_tmpl1, TEST_TEMPLATE_FILE)
+
+    # === 任务2: 测试列表 (追加后必然存在，除非任务1无未匹配且此前也无测试模板文件) ===
     if os.path.exists(TEST_TEMPLATE_FILE):
         process_iptv_task(
             template_file=TEST_TEMPLATE_FILE,
