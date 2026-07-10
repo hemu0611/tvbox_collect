@@ -55,6 +55,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
+				"token": "./lib/tokenm.json",
 				"page_size": 40,
 				"tmdb_key": "2894d9a1baf7812b451de03c801b0281",
 				"tmdb_api": "https://api.tmdb.org",
