@@ -27,18 +27,10 @@
     "类型": "影視" }
 },
 {
-    "key": "py_liuyun",
+    "key": "js_liuyun",
     "name": "🍘┃琉璃┃ 影視",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/琉璃.py",
-    "ext": {"site": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com",
-    "类型": "影視" }
-},
-{
-    "key": "csp_Duboku",
-    "name": "🎯┃影視┃ 独播",
-    "type": 3,
-    "api": "csp_Duboku",
+    "api": "https://d.kstore.dev/download/12194/TS/琉璃.js",
     "类型": "影視"
 },
 {
@@ -69,6 +61,13 @@
     "api": "csp_Xlys",
     "type": 3,
     "ext": "https://www.xlysw.ggff.net"
+},
+{
+    "key": "csp_Duboku",
+    "name": "🎯┃影視┃ 独播",
+    "type": 3,
+    "api": "csp_Duboku",
+    "类型": "影視"
 },
 {
     "key" : "chengzi",
@@ -119,8 +118,7 @@
     "name": "🌟┃影視┃ 星辰",
     "type": 3,
     "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/星辰.js",
-    "ext": {"host": "https://www.xcyycn.com",
-    "类型": "影視" }
+    "类型": "影視" 
 },
 {
     "key": "js_永乐",
@@ -137,18 +135,18 @@
     "类型": "影視"
 },
 {
-    "key": "py_华数",
-    "name": "🚩┃影視┃ 华数",
+    "key": "js_文才",
+    "name": "🚩┃影視┃ 文才",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
-    "ext": {"host": "https://www.wasu.cn",
-    "类型": "影視" }
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/文才.js",
+    "类型": "影視" 
 },
 {
-    "key" : "py_壹影视",
-    "name" : "🦗┃影視┃ 壹影",
+    "key" : "js_奇迹云",
+    "name" : "🦗┃影視┃ 奇迹",
     "type" : 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/壹影.py",
+    "api" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/奇迹云.js",
+    "ext" : "http://cmsyun2.qijiyun.vip/api.php/app/",
     "类型": "影視"
 },
 {
@@ -173,22 +171,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-},
-{
-    "key" : "csp_人人",
-    "name" : "🤵🏻┃影視┃人人",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/人人.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-},
-{
-    "key" : "csp_青蛙",
-    "name" : "🖥┃影視┃青蛙",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青蛙.json",
     "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
 },
 {
@@ -464,26 +446,6 @@
     "dataIv": "5a9w6x58dsq6z3a6"}
 },
 {
-    "key": "csp_星河",
-    "name": "🌐┃星河┃ APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-    "dataKey": "ca94b06ca359d80e",
-    "dataIv": "ca94b06ca359d80e",
-    "init": "initV120",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_闪影",
-    "name": "🌐┃闪影┃ APP",
-    "type": 3,
-    "api": "csp_AppYs",
-    "ext": "https://qpcj.69mini.com/api.php/app/",
-    "类型": "APP"
-},
-{
     "key": "HemaDJ",
     "name": "♨️┃短劇┃ 盒马 ",
     "type": 3,
@@ -505,43 +467,25 @@
     "genre": "shortdrama"
 },
 {
-    "key": "py_西饭短剧",
-    "name": "♨️┃短劇┃ 稀饭",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/西饭短剧.py",
-    "ext": {"host": "https://xifan-api-cn.youlishipin.com",
-    "类型": "短剧" }
+    "key" : "csp_憨塔",
+    "name" : "♨️┃短劇┃ 憨塔",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/憨塔.png"
 },
 {
-    "key": "py_星芽短剧",
-    "name": "♨️┃短劇┃ 星芽",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/星芽.py",
-    "ext": {"host": "https://app.whjzjx.cn",
-    "类型": "短剧" }
+    "key" : "csp_喵喵",
+    "name" : "♨️┃短劇┃ 喵喵",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/喵喵.png"
 },
 {
-    "key": "py_喜福短剧",
-    "name": "♨️┃短劇┃ 喜福",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
-    "类型": "短剧"
-},
-{
-    "key": "py_七猫短剧",
-    "name": "♨️┃短劇┃ 七猫",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
-    "ext": {"host": "https://api-read.qmplaylet.com",
-    "类型": "短剧" }
-},
-{
-    "key": "py_河马短剧",
-    "name": "♨️┃短劇┃ 河马",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/河马.py",
-    "ext": {"host": "https://www.kuaikaw.cn",
-    "类型": "短剧" }
+    "key" : "csp_茄子",
+    "name" : "♨️┃短劇┃ 茄子",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/茄子.png"
 },
 {
     "key": "dr_腾迅",
