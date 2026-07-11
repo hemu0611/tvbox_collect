@@ -76,6 +76,8 @@ jobs:
                [sese-18]="https://github.com/zhangfdzr/sese-.git"
                 [recha18]="https://gitlab.com/tenrecha/recha.git"
                [TVBOX-merge18]="https://github.com/leexuben/TVBOX-merge.git"
+               [ycc1195835265-18]="https://github.com/ycc1195835265/18.git"
+              
               
             
 
