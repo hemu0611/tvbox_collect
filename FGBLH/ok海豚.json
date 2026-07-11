@@ -551,16 +551,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/短剧聚合.py"
 		},
 		{
-			"key":"kuwo",
-			"name":"🐬酷我听书",
-			"type":1,
-			"api":"http:\/\/xiaobaibai.feng1210.top\/algorith\/music\/kuwo_source.php",
-			"searchable":1,
-			"quickSearch":1,
-			"playUrl":"json:http:\/\/xiaobaibai.feng1210.top\/\/jiexi.php?data=f73a15dd14154af516e867855a58f417&url=",
-			"changeable":1
-		},
-		{
 			"key": "shjb",
 			"name": "🐬色播聚合.py｜🔞",
 			"type": 3,
@@ -655,6 +645,12 @@
 			"name": "🐬黑料不打烊.py｜🔞",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/黑料不打烊.py"
+		},
+		{
+			"key": "wyt",
+			"name": "🐬五月天.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/五月天.py"
 		},
 		{
 			"key": "jptt",
