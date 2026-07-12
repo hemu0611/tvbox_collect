@@ -64,6 +64,32 @@
 			}
 		},
 		{
+			"key": "PanSouGo",
+			"name": "PanSou",
+			"type": 3,
+			"api": "csp_PanSouGo",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": {
+				"token": "./lib/tokenm.json",
+				"siteurl": "http://apihost1:8001|http://apihost2:8001",
+				"proxy": "noproxy",
+				"danmu": "0",
+				"plugins": "all",
+				"panlist": "all",
+				"filters": {
+					"include": [
+						"1080p",
+						"4K"
+					],
+					"exclude": [
+						"广告",
+						"预告"
+					]
+				}
+			}
+		},
+		{
 			"key": "Local",
 			"name": "本地",
 			"type": 3,
