@@ -3,14 +3,6 @@
   "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "wallpaper": "https://tv.nxog.top/m/t/",
   "lives": [
-        {
-      "name": "欧华(需32位影视仅港有效)",
-      "url": "http://dbmlosa.sylu.cc:8080/ouhua.txt",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-    },
-
            {
       "name": "四季线上",
       "url": "http://dreamtv.sylu.cc:2082/vtg4.m3u?token=dbm",
@@ -32,14 +24,7 @@
       "playerType": 2,
       "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-    },
-        {
-            "name": "四季线上",
-            "url": "http://dreamtv.sylu.cc:2082/vtg4.m3u?token=dbm",
-            "playerType": 2,
-            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-            "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-        },        
+    },  
     {
       "name": "tv123",
       "type": 0,
@@ -82,49 +67,7 @@
             "name": "🐬iptv直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
-        },
-	    {
-            "name": "🐬小新TV",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
-        },
-        {
-            "name": "🐬北美长城源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ha.msbot.dpdns.org/wall.php"
-        }, 
-        {
-            "name": "🐬港台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
-        },
-	    {
-            "name": "🐬体育台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://82.156.243.185:33389/fwc.m3u"
-        },
-	    {
-            "name": "🐬裤佬TV",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
-        },
-        {
-            "name": "🐬Mytv",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://cdn.qd.je/live.m3u"
-        },
-        {
-            "name": "🐬新加坡(梯子)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://xtvantsc.xyz/新加坡.m3u"
+            "url": "https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
         },
         {
             "name": "🐬风云源",
@@ -150,13 +93,6 @@
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist_all.txt"
         },
-        {
-            "name": "🐬4GTV(梯子台湾节点)720p",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/4gtv.txt"
-        },
-
 		{
             "name": "🐬4GTV(免梯子)1080p",
             "type": 0,
@@ -168,12 +104,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
-        },
-        {
-            "name": "🐬jackTV(梯子)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
     {
       "name": "FreeTV.fun",
@@ -193,12 +123,6 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "pass": true
-    },
-    {
-      "name": "香蕉-MYTV",
-      "url": "https://tv.iill.top/m3u/MyTV",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
       "pass": true
     },
     {
@@ -225,7 +149,7 @@
       "name": "🔞秘密基地",
       "type": 0,
       "ua": "okhttp",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+      "url": "https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/xxx视频资源.txt"
     },        
     {
       "name": "🔞祕密花園",
@@ -238,7 +162,7 @@
     },
     {
       "name": "🔞午夜劇場",
-      "url": "https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/%E5%8D%88%E5%A4%9C%E5%89%A7%E5%9C%BA.txt",
+      "url": "https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/午夜剧场.txt",
       "type": 0,
       "timeout": 10,
       "ua": "okhttp/3.8.1 okhttp/3.15 okhttp/4.12.0 Herissmon/2016 judy/5.2.1 RobYang/5.2.1 Lavf/58.12.100 catvod.com Goiptv/8.8.8 Goiptv/0.0.1 xieanqishiwoerzi/0.0.1 okHttp/Mod-1.0.0",
