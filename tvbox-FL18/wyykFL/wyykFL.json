@@ -32,20 +32,6 @@
       "filterable": 1,
       "jar": "./jar/182.jar"
     },
-	{
-			"key": "大奶子",
-			"name": "🔞大奶子资源",
-			"type": 1,
-			"api": "https://apidanaizi.com/api.php/provide/vod",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1,
-             "categories": ["精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
-      ]	
-   },
    {
    "key":"csp_XBPQ_高清SEX国产",
    "name":"🔞高清SEX国产",
@@ -115,22 +101,6 @@
         "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://18zg.life/vod","直接播放":"1","分类url":"https://18zg.life/t/{cateId}/by/{by}/page/{catePg}/","分类":"国产$1#日韩$2#伦理$4#欧美$3#另类$39","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷窥偷拍$8#乱伦系列$9#网爆吃瓜$10#抖音风格$11#国产AV$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日韩无码$14#日本字幕$15#av解说$17#换脸明星$18||欧美自拍$21#欧美字幕$22||伦理三级$29#日韩伦理$30||同性恋系列$38#变性系列$40#重口味$23"}
      },
     {
-            "key": "黄色仓库",
-            "name": "🔞黄色仓库",
-            "type": 1,
-            "api": "http://123091.xyz/api.php/provide/vod//api.php/provide/vod/",
-            "categories": [
-                "日本有码",
-                "无码中文字幕",
-                "有码中文字幕",
-                "日本无码",
-                "国产视频",
-                "欧美高清",
-                "动漫剧情",
-                "骑兵破解"
-            ]
-        },
-       {
            "key":"csp_XBPQ_母乱子伦",
            "name":"🔞母乱子伦",
            "type":3,
@@ -159,21 +129,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-          {
-            "key": "樂吧资源",
-            "name": "🔞樂吧资源",
-            "type": 1,
-            "api": "http://lbapiby.com/api.php/provide/vod",
-            "playerUrl": ""
-        },
-        {
-            "key": "JKUN资源",
-            "name": "🔞JKUN资源",
-            "type": 1,
-            "api": "https://jkunzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1
-      },
      {
          "key":"csp_XBPQ_PWXXX视频",
          "name":"🔞PWXXX视频",
@@ -225,23 +180,7 @@
        "filterable": 1,
        "ext":{"编码": "UTF-8","请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； TAS-AN00 Build/HUAWEITAS-AN00；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","直接播放":"1","搜索url":"/llq/index.php/vod/search.html?wd={wd}","主页url":"https://web.llq6.cc/","分类url":"https://web.llq6.cc/llq/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html","分类":"黄瓜资源$87#老鸭资源$135#仓库资源$191#森林资源$117#奥斯卡资源$86#国产探花$97#绿帽淫妻$96#国产精品$95#国产乱伦$98#美女主播$99#明星换脸$100#香港三级$101#麻豆传媒$102#杏吧传媒$103#兔子先生$104#天美传媒$105#sa国际传媒$106#性世界$107#扣扣传媒$108#果冻传媒$109#星空无限$110#精东影业$111#葫芦影业$112#蜜桃传媒$113#起点传媒$114"}
        },
-        {
-            "key": "老色逼资源",
-            "name": "🔞老色逼资源",
-            "type": 1,
-            "api": "https://apilsbzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
-        },
        {
-            "key": "细胞网资源",
-            "name": "🔞细胞网资源",
-            "type": 1,
-            "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
-      },
-            {
       "key": "无水印采集",
       "name": "🔞港台三级",
       "type": 1,
@@ -251,6 +190,166 @@
       ],
 "playUrl":"https://wsyzy.top/m3u8/?url="
     },
+   {
+      "key":"doudouzy.com",
+      "name":"🈲豆豆资源",
+      "type":1,
+      "api":"https://doudouzy.com/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "changeable":1,
+      "categories":[
+      "欧美精品",
+      "国产传媒",
+      "国产视频",
+      "国产探花",
+      "极品学生",
+      "野战户外",
+      "网曝黑料",
+      "日本有码",
+      "校园春色",
+      "SM虐待",
+      "巨乳系列",
+      "偷拍自拍",
+      "强奸乱伦",
+      "制服诱惑",
+      "AV解说",
+      "成人动漫",
+      "日本无码",
+      "重口猎奇",
+      "少妇人妻",
+      "角色扮演",
+      "女同性恋",
+      "中文字幕",
+      "男同性恋",
+      "反差系列"
+    ]
+   },
+   {
+       "key":"xzytv.com",
+       "name":"🈲幸资资源",
+       "type":1,
+       "api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+       "searchable":1,
+       "changeable":1,
+       "categories":["欧美精品",
+       "日韩精品",
+       "动漫精品",
+       "自拍偷拍",
+       "伦理影片",
+       "中文字幕",
+       "人妻系列",
+       "制服诱惑",
+       "强奸乱伦",
+       "AV明星",
+       "SM重味",
+       "巨乳系列",
+       "颜射系列",
+       "口交视频",
+       "自慰系列",
+       "教师学生",
+       "大秀视频",
+       "明星换脸",
+       "AV解说",
+       "VR视频"
+    ]
+    },
+    {
+       "key":"heiliaozy.com",
+       "name":"🈲黑料资源",
+       "type":1,
+       "api":"https://heiliaozyapi.com/api.php/provide/vod/",
+       "searchable":1,
+       "changeable":1,
+       "categories":[
+       "中文字幕",
+       "国产传媒",
+       "日本有码",
+       "日本无码",
+       "AV解说",
+       "cosplay",
+       "黑丝诱惑",
+       "SWAG",
+       "自拍偷拍",
+       "激情动漫",
+       "网红主播",
+       "探花系列",
+       "三级伦理",
+       "VR视角",
+       "囊人搭讪",
+       "门事件",
+       "抖阴视频"
+    ]
+    },
+   {
+      "key":"jkzyuan.cc",
+      "name":"🈲爱坤资源",
+      "type":1,
+      "api":"https://jkunzyapi.com/api.php/provide/vod",
+      "searchable":1,
+      "changeable":1,
+      "categories":[
+      "国产传媒",
+      "黑丝诱惑",
+      "SWAG",
+      "中文字幕",
+      "日本有码",
+      "日本无码",
+      "AV解说",
+      "cosplay",
+      "激情动漫",
+      "自拍偷拍",
+      "网红主播",
+      "探花系列",
+      "三级伦理",
+      "VR视角",
+      "素人搭讪",
+      "门事件",
+      "抖阴视频"
+    ]
+    },
+   {
+       "key":"xjzyapi.xyz",
+       "name":"🈲小鸡资源",
+       "type":1,
+       "api":"https://api.xjzyapi.xyz/provide/vod",
+       "searchable":1,
+       "changeable":1,
+       "categories":[
+       "欧美精选",
+       "日韩精选",
+       "国产精选",
+       "VR专区",
+       "性感网红",
+       "重口调教",
+       "厂牌经典",
+       "人兽",
+       "其他",
+       "强奸迷奸",
+       "网曝黑料",
+       "国产厂牌",
+       "丝袜制服",
+       "主播网红",
+       "AI换脸",
+       "乱伦",
+       "SM调教",
+       "群交多P",
+       "学生萝莉",
+       "自拍偷拍",
+       "口交自慰",
+       "国产三级",
+       "日韩AV",
+       "素人特摄",
+       "无码高清",
+       "经典有码",
+       "中文字幕",
+       "日韩三级",
+       "东南亚",
+       "阿拉伯",
+       "印巴拉丁",
+       "激情H漫",
+       "3D"
+      ]
+     },
      { 
       "key":"push_agent",
       "name":"💻06.19更新",
