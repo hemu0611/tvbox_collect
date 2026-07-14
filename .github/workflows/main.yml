@@ -65,6 +65,8 @@ jobs:
               [tbapi1]="https://github.com/ls125781003/tbapi1.git" 
                [jiemi]="https://github.com/woshishiq1/jiemi.git"
                 [BINGO-TV]="https://github.com/leexuben/BINGO-TV.git"
+                [ljlfct01.github.io.git]="https://github.com/ljlfct01/ljlfct01.github.io.git"
+                
 
                 
                [TB18]="https://github.com/LIUJEI/TB.git" 
