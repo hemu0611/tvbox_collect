@@ -258,7 +258,7 @@ class Spider(Spider):
         except Exception as e:
             print(f"解析流媒体直链失败: {e}")
             url, p = "", 0
-        return {'parse': p, 'url': url, 'header': {'User-Agent': 'okhttp/4.12.0'}}
+        return {'parse': p, 'url': url, 'header': {'User-Agent': 'okhttp/4.12.0'}, 'danmaku': 'http://127.0.0.1:9978/proxy?do=diydanmu'}
 
     def localProxy(self, param):
         pass
