@@ -66,6 +66,9 @@ jobs:
                [jiemi]="https://github.com/woshishiq1/jiemi.git"
                 [BINGO-TV]="https://github.com/leexuben/BINGO-TV.git"
                 [ljlfct01.github.io.git]="https://github.com/ljlfct01/ljlfct01.github.io.git"
+                [666tv_v3]="https://github.com/666tv/v3.git"
+                [cluntop_tvbox]="https://github.com/cluntop/tvbox.git"
+                [yoursmile66_TVBox]="https://github.com/yoursmile66/TVBox.git"
                 
 
                 
@@ -79,6 +82,8 @@ jobs:
                 [recha18]="https://gitlab.com/tenrecha/recha.git"
                [TVBOX-merge18]="https://github.com/leexuben/TVBOX-merge.git"
                [ycc1195835265-18]="https://github.com/ycc1195835265/18.git"
+                [666tv_69-18]="https://github.com/666tv/69.git"
+               
               
               
             
