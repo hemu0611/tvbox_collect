@@ -8,7 +8,7 @@ from base.spider import Spider as BaseSpider
 
 class Spider(BaseSpider):
     def init(self, extend=""):
-        self.host = "https://www.ht10010.com"
+        self.host = "https://www.tjtcdl.com/"
         self.headers = {
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -284,7 +284,7 @@ class Spider(BaseSpider):
                             'cache-control': "no-cache",
                             'pragma': "no-cache",
                             'priority': "u=0, i",
-                            'referer': "https://www.ht10010.com/",
+                            'referer': "https://www.tjtcdl.com/",
                             'Content-Type': 'application/x-www-form-urlencoded',
                         }
                         response = requests.get(f"https://fgsrg.hzqingshan.com/player/?url={play_url}", headers=headers)
