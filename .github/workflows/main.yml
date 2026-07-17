@@ -70,10 +70,8 @@ jobs:
                 [cluntop_tvbox]="https://github.com/cluntop/tvbox.git"
                 [yoursmile66_TVBox]="https://github.com/yoursmile66/TVBox.git"
                 [Ye-11X115490_PsyDuck4k]="https://gitee.com/Ye-11X115490/PsyDuck.git"
-                
-                
-
-                
+                [tianjitop/llllo4k]="https://github.com/tianjitop/llllo.git"
+                 
                [TB18]="https://github.com/LIUJEI/TB.git" 
                [tvbox-FL18]="https://github.com/aa123jg/tvbox-FL.git"
                [pgfh18]="https://github.com/lang999/pgfh.git"
