@@ -12,6 +12,22 @@
             "playable": 1
         },
         {
+            "key": "影探",
+            "name": "至尊影探",
+            "type": 4,
+            "api": "http://sf4.mftv.top/gy/ythy%E8%A7%82%E5%BD%B1.php"
+        },
+        {
+            "key": "漫闪",
+            "name": "漫闪影视",
+            "type": 3,
+            "api": "csp_Manshan",
+            "jar": "https://19045.kstore.space/manshan.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "追光",
             "name": "追光影视",
             "type": 4,
@@ -39,7 +55,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {"key":"咕噜","name":"咕噜咕噜","type":4,"api":"http://211.101.247.26:99/proxy.php?code=9999&target=f5eb11c746869fd90c06","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":""},
+        {
+            "key": "咕噜",
+            "name": "咕噜咕噜",
+            "type": 4,
+            "api": "http://211.101.247.26:99/proxy.php?code=9999&target=f5eb11c746869fd90c06",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": ""
+        },
         {
             "key": "布布",
             "name": "布布影视",
@@ -68,7 +94,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{"key":"bili","name":"哔哩哔哩","type":4,"api":"http://211.101.247.26:99/proxy.php?code=9999&target=f064a77443204ab4568d","searchable":1,"quickSearch":1,"changeable":0},
+        {
+            "key": "bili",
+            "name": "哔哩哔哩",
+            "type": 4,
+            "api": "http://211.101.247.26:99/proxy.php?code=9999&target=f064a77443204ab4568d",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "key": "爱奇艺",
             "name": "奇艺视频",
@@ -116,24 +150,9 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://23.148.228.37:6090",
-                "dataKey": "106jkcdnkldzckjk",
-                "dataIv": "106jkcdnkldzckjk"
-            }
-        },
-        {
-            "key": "四叶草",
-            "name": "叶草影视",
-            "type": 3,
-            "api": "https://gitee.com/Ye-11X115490/PsyDuck/raw/master/lib/PsyDuck-Qiji.py",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
-                "dataKey": "8eeObuwrmS3lRDEs",
-                "dataIv": "8eeObuwrmS3lRDEs",
-                "ua": "okhttp/3.10.0",
-                "api": 2
+                "site": "https://xk211.xkgzs.xyz/",
+                "dataKey": "11320jkjksdkxxaw",
+                "dataIv": "11320jkjksdkxxaw"
             }
         },
         {
@@ -183,7 +202,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {"key":"wanou_sites","name":"网盘聚合","type":4,"api":"http://211.101.247.26:99/proxy.php?code=9999&target=5657e709a4c79e8b5e4b","searchable":1,"quickSearch":1,"filterable":1},
+        {
+            "key": "wanou_sites",
+            "name": "网盘聚合",
+            "type": 4,
+            "api": "http://211.101.247.26:99/proxy.php?code=9999&target=5657e709a4c79e8b5e4b",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "mihdr",
             "name": "小米网盘",
