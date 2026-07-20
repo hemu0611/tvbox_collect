@@ -32,16 +32,17 @@
    "起始页": "0",//默认1，一般不填
 "页码倍率":"60",
     "直接播放":"1",
-    "简介": "zh.stripchat.global/{{标题}}",
+    "缓存-c":"https://zh.stripchat.global/",
+    "简介": "{{缓存-c}}{{标题}}",
     //"链接加工":"{{链接}}",
-    //"详情页加工":"{{链接}}",
+    "详情页加工":"{{缓存-c}}{{标题}}",
     "搜索模式": "1",
     "搜索url": "",
     "过滤词": "",
     "嗅探词": "",
     "详情页加工": "",
     "线路二次截取": "",
-    "线路标题": "",
+    "线路标题": "飞鱼",
     "播放二次截取": "",
     "播放数组": "",
     "播放标题": "",
@@ -53,7 +54,7 @@
     "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 15; 2407FRK8EC Build/AP3A.240617.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/128.0.6613.127 Mobile Safari/537.36#Origin${{主页url}}#Referer${{主页url}}",
     "二级目录": "分类1|folder-0-0-H",
     "二级ID": "",
-    "特殊分类链接": "推荐${{主页url}}/api/front/models?improveTs=false&removeShows=false&limit=60&offset={catePg}&primaryTag=girls&sortBy=stripRanking&rcmGrp=A&rbCnGr=true&prxCnGr=false&nic=false&filterGroupTags=[[\"{cateId}\"]]#情侣${{主页url}}/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset=0&primaryTag={cateId}&filterGroupTags=%5B%5B%22{class}%22%5D%5D&sortBy=stripRanking&parentTag={class}&nic=true&byw=false&rcmGrp=A&rbCnGr=true&iem=true&decMb=false&ctryTop=true&mlfv=false&rectf=false#最受欢迎${{主页url}}/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset={catePg}&primaryTag=girls&sortBy={cateId}#女主播${{主页url}}/api/front/models?improveTs=false&removeShows=false&limit=60&offset={catePg}&primaryTag={cateId}&sortBy=stripRanking&rcmGrp=A&rbCnGr=true&prxCnGr=false&nic=false&filterGroupTags=[[\"{class|tagLanguageChinese}\"]]&sortBy=stripRanking&parentTag={class|tagLanguageChinese}#变性人$https://zh.stripchat.global/api/front/models?removeShows=true&recInFeatured=false&limit=60&offset={catePg}&primaryTag={cateId}&sortBy=viewersRating&nic=true&byw=false&rcmGrp=N&rbCnGr=true&iem=true&decMb=false&ctryTop=true#分类1$https://assets.chapturist.com/assets/{cateId}.4a25458bdb5317.js#最佳私人秀$https://zh.stripchat.global/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset={catePg}&primaryTag=girls&filterGroupTags=%5B%5B%22{cateId}%22%5D%5D&sortBy=stripRanking&parentTag=autoTagBestPrivates",
+    "特殊分类链接": "推荐${{主页url}}/api/front/models?improveTs=false&removeShows=false&limit=60&offset={catePg}&primaryTag=girls&sortBy=stripRanking&rcmGrp=A&rbCnGr=true&prxCnGr=false&nic=false&filterGroupTags=[[\"{cateId}\"]]#情侣${{主页url}}/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset={catePg}&primaryTag={cateId}&filterGroupTags=%5B%5B%22{class}%22%5D%5D&sortBy=stripRanking&parentTag={class}&nic=true&byw=false&rcmGrp=A&rbCnGr=true&iem=true&decMb=false&ctryTop=true&mlfv=false&rectf=false#最受欢迎${{主页url}}/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset={catePg}&primaryTag=girls&sortBy={cateId}#女主播${{主页url}}/api/front/models?improveTs=false&removeShows=false&limit=60&offset={catePg}&primaryTag={cateId}&sortBy=stripRanking&rcmGrp=A&rbCnGr=true&prxCnGr=false&nic=false&filterGroupTags=[[\"{class|tagLanguageChinese}\"]]&sortBy=stripRanking&parentTag={class|tagLanguageChinese}#变性人$https://zh.stripchat.global/api/front/models?removeShows=true&recInFeatured=false&limit=60&offset={catePg}&primaryTag={cateId}&sortBy=viewersRating&nic=true&byw=false&rcmGrp=N&rbCnGr=true&iem=true&decMb=false&ctryTop=true#分类1$https://assets.chapturist.com/assets/{cateId}.4a25458bdb5317.js#最佳私人秀$https://zh.stripchat.global/api/front/models?removeShows=false&recInFeatured=false&limit=60&offset={catePg}&primaryTag=girls&filterGroupTags=%5B%5B%22{cateId}%22%5D%5D&sortBy=stripRanking&parentTag=autoTagBestPrivates",
     //"类型": "",
   
     //"类型值":"*", 
@@ -68,6 +69,7 @@
   
 {'n': '新主播', 'v': 'autoTagNew'},
 {'n': '推荐', 'v': 'recommended'},
+{"v":"fuckMachine","n":"炮机"},
 {'n': '少女18+', 'v': 'ageTeen'},
 {'n': 'VR', 'v': 'autoTagVr'},
 {'n': '亚洲人', 'v': 'ethnicityAsian'},
@@ -101,6 +103,9 @@
 {"v":"tagLanguageChinese","n":"中国情侣"},
 {"v":"tagLanguageUkrainian","n":"乌克兰情侣"},
 {"v":"autoTagNew","n":"最新情侣"},
+{"v":"recommended","n":"今日推荐"},
+{"v":"rotatedRecommended","n":"最新精选"},
+{"v":"tagGroupSex","n":"群交"},
 {"v":"","n":"全部情侣"}]}
 ],
 "men/popular":[
