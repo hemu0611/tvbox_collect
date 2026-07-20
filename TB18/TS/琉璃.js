@@ -83,10 +83,10 @@ async function init(cfg) {}
 
 async function home(filter) {
     const classes = [
-        { type_id: '1', type_name: '琉芸电影' },
-        { type_id: '2', type_name: '琉芸连续剧' },
-        { type_id: '3', type_name: '琉芸综艺' },
-        { type_id: '4', type_name: '琉芸动漫' }
+        { type_id: '1', type_name: '💓电影' },
+        { type_id: '2', type_name: '💓连续剧' },
+        { type_id: '3', type_name: '💓综艺' },
+        { type_id: '4', type_name: '💓动漫' }
     ];
     return JSON.stringify({ class: classes });
 }
@@ -162,8 +162,8 @@ async function detail(id) {
             vod_area: data.Region,
             vod_actor: Array.isArray(data.Actor) ? data.Actor.join(',') : data.Actor,
             vod_director: data.Director,
-            vod_content:'【琉🔹芸❤广告勿信👉剧情】📢'+data.Description,
-            vod_play_from: '琉芸专线',
+            vod_content:'【琉🔹璃❤广告勿信👉剧情】📢'+ data.Description,
+            vod_play_from: '琉璃专线',
             vod_play_url: playUrls,
             type_name: `${data.Genre || ''},${data.Scenario || ''}`
         }]
