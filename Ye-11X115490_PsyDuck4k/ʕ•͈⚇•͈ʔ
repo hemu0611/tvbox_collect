@@ -1,6 +1,16 @@
 {
     "sites": [
         {
+            "key": "臻彩",
+            "name": "臻彩影视",
+            "type": 3,
+            "api": "https://gitee.com/Ye-11X115490/PsyDuck/raw/master/lib/AppYsV2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://bb4kcmslieyuyun.qijiyun.vip/api.php/app/"
+        },
+        {
             "key": "枫叶",
             "name": "枫叶影院",
             "type": 3,
@@ -18,23 +28,10 @@
             "api": "http://sf4.mftv.top/gy/ythy%E8%A7%82%E5%BD%B1.php"
         },
         {
-            "key": "漫闪",
-            "name": "漫闪影视",
-            "type": 3,
-            "api": "csp_Manshan",
-            "jar": "https://19045.kstore.space/manshan.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "追光",
-            "name": "追光影视",
+            "key": "影探2",
+            "name": "影探影视",
             "type": 4,
-            "api": "http://8.134.205.252:39466/shenma/zg.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "http://bt.xuan666.icu/影探/公开/gx.php"
         },
         {
             "key": "CO4K",
@@ -261,6 +258,16 @@
         }
     ],
     "parses": [
+        {
+            "name": "臻彩",
+            "type": 1,
+            "url": "http://47.116.164.219:610/jsont.php?key=ypZZAPHYMm&url=",
+            "ext": {
+                "flag": [
+                    "lieyuyun4k"
+                ]
+            }
+        },
         {
             "name": "4K",
             "type": 1,
