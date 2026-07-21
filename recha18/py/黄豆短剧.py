@@ -178,7 +178,7 @@ class Spider(BaseSpider):
                     "vod_area": '',
                     "vod_remarks": f"{data.get('serial', '')}·{data.get('plays', '')}播放",
                     "vod_actor": '',
-                    "vod_director": '未知',
+                    "vod_director": '老王',
                     "vod_content": data.get('summary', '') or data.get('t', ''),
                     "vod_play_from": '黄豆短剧',
                     "vod_play_url": '#'.join(play_url_parts),
