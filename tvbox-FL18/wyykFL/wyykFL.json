@@ -350,9 +350,18 @@
        "3D"
       ]
      },
+     {"key": "黑料日記", "name": "黑料日記", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/黑料日記.py"},
+     {"key": "速播国产", "name": "速播国产", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/速播国产.py"},
+     {"key": "精品在线", "name": "精品在线", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/精品在线.py"},
+     {"key": "爱的色放", "name": "爱的色放", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/爱的色放.py"},
+     {"key": "妹团优选", "name": "妹团优选", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/妹团优选.py"},
+     {"key": "一心一意", "name": "一心一意", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/一心一意.py"},
+     {"key": "A站入口", "name": "A站入口", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/A站入口.py"},
+     {"key": "色狗网", "name": "色狗网", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/色狗网.py"},
+     {"key": "啪一下", "name": "啪一下", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 0, "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/啪一下.py"},
      { 
       "key":"push_agent",
-      "name":"💻06.19更新",
+      "name":"💻07.22更新",
       "type":3,
       "api":"csp_PushAgent",
       "playerType":1,
