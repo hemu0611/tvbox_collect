@@ -33,40 +33,23 @@
     "api": "csp_PianKu8"
 },
 {
-    "key": "飞娱影视",
-    "name": "🥭┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu"
-},
-{
-    "key": "csp_BuBu",
-    "name": "🥂┃影視┃ 布布",
-    "type": 3,
-    "api": "csp_App3Q",
-    "ext": "https://asd123sx23xdacsx.top"
-},
-{
     "key": "马猴影视",
-    "name": "🦓┃影視┃马猴4K",
+    "name": "🦓┃影視┃马猴",
     "type": 3,
     "api": "csp_AppMH",
     "ext": "https://45.150.167.18:8000"
 },
 {
-    "key": "csp_枫叶4K",
-    "name": "🍁┃影視┃枫叶4K",
+    "key": "yunyun",
+    "name": "🎄┃芸芸┃APP",
     "type": 3,
-    "api": "csp_XBPQ",
+    "api": "csp_AppQi",
     "ext": {
-    "请求头": "手机",
-    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
-    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
-    "主页url": "https://www.cd-zj.com/label/qq.html",
-    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
-    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
-    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
-    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
+    "host": "http://110.42.67.130:1226",
+    "dataKey": "kj37zs29q22jk96t",
+    "dataIv": "kj37zs29q22jk96t",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "name": "🐿┃袋鼠┃APP",
@@ -272,13 +255,11 @@
     "key": "csp_soufa",
     "name": "🎟┃首映┃ APP",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://110.42.67.221:9005",
-    "dataKey": "FTgP4Gq8zPiqbt7M",
-    "dataIv": "FTgP4Gq8zPiqbt7M",
-    "init": "initV120",
-    "ua": "okhttp/3.10.0"}
+    "key": "FTgP4Gq8zPiqbt7M",
+    "api": 2}
 },
 {
     "key": "csp_lanying",
@@ -403,6 +384,13 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
+    "key": "csp_BuBu",
+    "name": "🥂┃影視┃ 布布",
+    "type": 3,
+    "api": "csp_App3Q",
+    "ext": "https://asd123sx23xdacsx.top"
+},
+{
     "key": "csp_Hxq",
     "name": "👼┃影視┃ 韩圈",
     "type": 3,
@@ -452,11 +440,33 @@
     "ext": "https://shdy5.us"
 },
 {
+    "key": "飞娱影视",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu"
+},
+{
     "key": "Ikanbot",
     "name": "💟┃影視┃ 爱看 ",
     "type": 3,
     "api": "csp_Ikanbot",
     "searchable": 0
+},
+{
+    "key": "csp_枫叶4K",
+    "name": "🍁┃影視┃枫叶",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "手机",
+    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
+    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
+    "主页url": "https://www.cd-zj.com/label/qq.html",
+    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
+    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
+    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
+    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
 },
 {
     "name": "♨️┃短劇┃豪堪",
