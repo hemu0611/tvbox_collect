@@ -27,12 +27,6 @@
     "ext": "https://y2s52n7.com"
 },
 {
-    "key": "山楂影视",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8"
-},
-{
     "key": "马猴影视",
     "name": "🦓┃影視┃马猴",
     "type": 3,
@@ -41,11 +35,11 @@
 },
 {
     "key": "yunyun",
-    "name": "🎄┃芸芸┃APP",
+    "name": "☁┃芸芸┃APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "host": "http://110.42.67.130:1226",
+    "site": "https://gitee.com/lyun_1_0/tb/raw/master/lib/yun.m3u",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
@@ -443,7 +437,15 @@
     "key": "飞娱影视",
     "name": "🥭┃影視┃飞娱",
     "type": 3,
-    "api": "csp_Feiyu"
+    "api": "csp_Feiyu",
+    "indexs" : 0
+},
+{
+    "key": "山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8",
+    "indexs" : 0
 },
 {
     "key": "Ikanbot",
@@ -569,8 +571,8 @@
 {
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
-    "type": 3,
-    "api": "./TS/酷我.js",
+    "type" : 3,
+    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/TS/酷我.py",
     "indexs" : 0
 },
 {
